@@ -1,0 +1,17 @@
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\bin\Debug\netstandard2.0\NotSpotifyApp.deps.json
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\bin\Debug\netstandard2.0\NotSpotifyApp.dll
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.csprojAssemblyReference.cache
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.AssemblyInfoInputs.cache
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.AssemblyInfo.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\bin\Debug\netstandard2.0\ref\NotSpotifyApp.dll
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\bin\Debug\netstandard2.0\NotSpotifyApp.pdb
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\Views\ArtistPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\Views\OptionsTabbedPage.xaml.g.cs
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.dll
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\ref\NotSpotifyApp.dll
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.pdb
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\NotSpotifyApp.csproj.Fody.CopyLocal.cache
+C:\Users\Ambar Cuevas\Desktop\NotSpotifyApp\NotSpotifyApp\NotSpotifyApp\obj\Debug\netstandard2.0\XamlC.stamp
